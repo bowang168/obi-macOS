@@ -1,5 +1,8 @@
 # obi-macOS
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/bowang168)
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-sponsor-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/bowang168)
+
 A comprehensive macOS setup and customization guide for DevOps/SRE engineers.
 
 Covers everything from creating bootable USB installers to configuring development tools, shell environments, and productivity workflows on macOS.
@@ -25,6 +28,13 @@ Open `index.html` in a browser to view the full guide, or visit the [GitHub Page
 ## Author
 
 Bo Wang - [GitHub](https://github.com/bowang168)
+
+## Support This Project
+
+If this guide helped you, consider:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/bowang168)
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-sponsor-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/bowang168)
 
 ## License
 
